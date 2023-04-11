@@ -4,4 +4,4 @@ This repo is dedicated to my solutions to some Haskell problems with comments an
 
 The file test.hs contains basic concepts and simple problems. 
 
---> Place to review :)
+:+1: Place to review :smiley:
